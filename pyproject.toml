@@ -1,0 +1,13 @@
+[project]
+name = "qvd-connector"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.3.3",
+    "pyqvd>=2.2.2",
+    "pyspark>=4.0.0",
+    "pytest>=8.4.2",
+    "ruff>=0.14.6",
+]

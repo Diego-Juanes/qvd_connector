@@ -1,0 +1,5 @@
+pytest
+ruff
+pyspark >= 4.0.0
+PyQvd
+pandas
